@@ -392,7 +392,7 @@ Future<void> init() async {
 3. 将文件放入 `${App.dataPath}/comic_source/` 目录
 4. 重启应用或在设置中重新加载漫画源
 
-详细文档参见：[comic_source.md](comic_source.md)
+详细文档参见：[Comic Source 文档](./comic_source.md) 和 [JavaScript API 文档](./js_api.md)
 
 ### 添加新页面
 
